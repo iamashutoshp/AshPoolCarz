@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-
+import HomeComponent from './Home/HomeComponent';
 function App() {
   return (
     <div>
-      React App
+      <HomeComponent/>
     </div>
   );
 }
